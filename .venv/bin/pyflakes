@@ -1,4 +1,4 @@
-#!/home/anaouali/Documents/PiscinePython/.venv/bin/python3
+#!/home/anaouali/Documents/PiscinePython/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
